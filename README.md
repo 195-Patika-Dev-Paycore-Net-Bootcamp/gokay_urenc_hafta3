@@ -168,7 +168,7 @@
             </li>
         </ul>
     </li>
-    <li><h3>Konteyner İşlemleri</h3>
+    <li><h3>Konteyner İşlemleri (ContainersController)</h3>
         <ul>
             <li>
                 <h4>Tüm konteynerleri listeleme : [HttpGet("GetContainers")] GetContainers()</h4>
