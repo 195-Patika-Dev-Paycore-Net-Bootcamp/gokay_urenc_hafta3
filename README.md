@@ -21,19 +21,19 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreController.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/API/Abstract/ICoreController.cs" target="_blank"><b>ICoreController.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
                             <li>Controllers
                                 <ul>
-                                    <li><a href="" target="_blank"><b>CoreController.cs</b></a></li>
+                                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/API/Concrete/Controllers/CoreController.cs" target="_blank"><b>CoreController.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Extensions
                                 <ul>
-                                    <li><a href="" target="_blank"><b>NHibernateExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/API/Concrete/Extensions/NHibernateExtension.cs" target="_blank"><b>NHibernateExtension.cs</b></a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -44,12 +44,12 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreSession.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/DataAccess/Abstract/ICoreSession.cs" target="_blank"><b>ICoreSession.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
-                            <li><a href="" target="_blank"><b>CoreSession.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/DataAccess/Concrete/CoreSession.cs" target="_blank"><b>CoreSession.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -58,12 +58,12 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreEntity.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Entity/Abstract/ICoreEntity.cs" target="_blank"><b>ICoreEntity.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
-                            <li><a href="" target="_blank"><b>CoreEntity.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Entity/Concrete/CoreEntity.cs" target="_blank"><b>CoreEntity.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -74,14 +74,14 @@
         <ul>
             <li>Abstract
                 <ul>
-                    <li><a href="" target="_blank"><b>IContainerSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IVehicleSession.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/DataAccess/Abstract/IContainerSession.cs" target="_blank"><b>IContainerSession.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/DataAccess/Abstract/IVehicleSession.cs" target="_blank"><b>IVehicleSession.cs</b></a></li>
                 </ul>
             </li>
             <li>Concrete
                 <ul>
-                    <li><a href="" target="_blank"><b>ContainerSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>VehicleSession.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/DataAccess/Concrete/ContainerSession.cs" target="_blank"><b>ContainerSession.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/DataAccess/Concrete/VehicleSession.cs" target="_blank"><b>VehicleSession.cs</b></a></li>
                 </ul>
             </li>
         </ul>
@@ -92,14 +92,14 @@
                 <ul>
                     <li>Entities
                         <ul>
-                            <li><a href="" target="_blank"><b>Container.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>Vehicle.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Entity/Concrete/Entities/Container.cs" target="_blank"><b>Container.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Entity/Concrete/Entities/Vehicle.cs" target="_blank"><b>Vehicle.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Mappings
                         <ul>
-                            <li><a href="" target="_blank"><b>ContainerMap.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>VehicleMap.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Entity/Concrete/Mappings/ContainerMap.cs" target="_blank"><b>ContainerMap.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Entity/Concrete/Mappings/VehicleMap.cs" target="_blank"><b>VehicleMap.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -110,12 +110,12 @@
         <ul>
             <li>Controllers
                 <ul>
-                    <li><a href="" target="_blank"><b>ContainersController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>VehiclesController.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Controllers/ContainersController.cs" target="_blank"><b>ContainersController.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Controllers/VehiclesController.cs" target="_blank"><b>VehiclesController.cs</b></a></li>
                 </ul>
             </li>
-            <li><a href="" target="_blank"><b>Program.cs</b></a></li>
-            <li><a href="" target="_blank"><b>appsettings.json</b></a></li>
+            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Program.cs" target="_blank"><b>Program.cs</b></a></li>
+            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/appsettings.json" target="_blank"><b>appsettings.json</b></a></li>
         </ul>
     </li>
 </ul>
