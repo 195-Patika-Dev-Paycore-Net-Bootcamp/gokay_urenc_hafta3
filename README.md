@@ -1,7 +1,7 @@
 <i>PayCore .NET Core Bootcamp - 3. Hafta</i>
 
 <hr />
-<h3>Proje Yapısı</h4>
+<h3>Proje Hakkında</h4>
 <ul>
     <li>.NET 6 ile geliştirilmiş bir ASP.NET Web API projesidir.</li>
     <li>Sınıflara ve barındırdığı özelliklere dair açıklamalar her dosyanın içerisinde yorum satırlarında detaylı olarak belirtilmiştir.</li>
@@ -9,10 +9,11 @@
     <li>PostgreSQL veri tabanı kullanılmıştır.</li>
     <li>NHibernate ORM aracından yararlanılmıştır.</li>
     <li>Bütün action metodlarına ait ekran görüntülü sonuçlar en aşağıda yer almaktadır.</li>
+    <li>Veritabanına ait script kodlarına <a href="" target="_blank">bu linkten</a> erişilebilir.</li>
 </ul>
 
 <hr />
-<h3>Görev Listesi</h4>
+<h3>Proje Yapısı</h4>
 <ul>
     <li>Core
         <ul>
