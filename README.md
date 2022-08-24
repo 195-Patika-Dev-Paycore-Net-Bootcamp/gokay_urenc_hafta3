@@ -124,7 +124,7 @@
 <h2><b>Sonuçlara Ait Ekran Görüntüleri</b></h2>
 <ul>
     <li>
-        <h3>Tüm işlemler</h3>
+        <h3>Tüm İşlemler</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/lrfo9dj.png" alt="Swagger" style="max-width: 100%;">
