@@ -9,7 +9,7 @@
     <li><a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> veri tabanı kullanılmıştır.</li>
     <li><a href="https://nhibernate.info" target="_blank">NHibernate</a> ORM aracından yararlanılmıştır.</li>
     <li>Bütün action metodlarına ait ekran görüntülü sonuçlar en aşağıda yer almaktadır.</li>
-    <li>Veritabanına ait script kodlarına <a href="" target="_blank">bu linkten</a> erişilebilir.</li>
+    <li>Veritabanına ait script kodlarına <a href="https://pastebin.com/pk7mtrZz" target="_blank">bu linkten</a> erişilebilir.</li>
 </ul>
 
 <hr />
