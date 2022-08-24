@@ -121,112 +121,7 @@
 </ul>
 
 <hr />
-<h3><b>Sonuçlara Ait Ekran Görüntüleri</b></h2><!--<ul>
-    <li>Core
-        <ul>
-            <li>API
-                <ul>
-                    <li>Abstract
-                        <ul>
-                            <li><a href="" target="_blank"><b>ICoreController.cs</b></a></li>
-                        </ul>
-                    </li>
-                    <li>Concrete
-                        <ul>
-                            <li>Controllers
-                                <ul>
-                                    <li><a href="" target="_blank"><b>CoreController.cs</b></a></li>
-                                </ul>
-                            </li>
-                            <li>Extensions
-                                <ul>
-                                    <li><a href="" target="_blank"><b>NHibernateExtension.cs</b></a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>Data Access
-                <ul>
-                    <li>Abstract
-                        <ul>
-                            <li><a href="" target="_blank"><b>ICoreSession.cs</b></a></li>
-                        </ul>
-                    </li>
-                    <li>Concrete
-                        <ul>
-                            <li><a href="" target="_blank"><b>CoreSession.cs</b></a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>Entity
-                <ul>
-                    <li>Abstract
-                        <ul>
-                            <li><a href="" target="_blank"><b>ICoreEntity.cs</b></a></li>
-                        </ul>
-                    </li>
-                    <li>Concrete
-                        <ul>
-                            <li><a href="" target="_blank"><b>CoreEntity.cs</b></a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>Data Access
-        <ul>
-            <li>Abstract
-                <ul>
-                    <li><a href="" target="_blank"><b>IContainerSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IVehicleSession.cs</b></a></li>
-                </ul>
-            </li>
-            <li>Concrete
-                <ul>
-                    <li><a href="" target="_blank"><b>ContainerSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>VehicleSession.cs</b></a></li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>Entity
-        <ul>
-            <li>Concrete
-                <ul>
-                    <li>Entities
-                        <ul>
-                            <li><a href="" target="_blank"><b>Container.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>Vehicle.cs</b></a></li>
-                        </ul>
-                    </li>
-                    <li>Mappings
-                        <ul>
-                            <li><a href="" target="_blank"><b>ContainerMap.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>VehicleMap.cs</b></a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>Web API
-        <ul>
-            <li>Controllers
-                <ul>
-                    <li><a href="" target="_blank"><b>ContainersController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>VehiclesController.cs</b></a></li>
-                </ul>
-            </li>
-            <li><a href="" target="_blank"><b>Program.cs</b></a></li>
-            <li><a href="" target="_blank"><b>appsettings.json</b></a></li>
-        </ul>
-    </li>
-</ul>-->
-
+<h3><b>Sonuçlara Ait Ekran Görüntüleri</b></h2>
 <ul>
     <li>
         <h3>Araç İşlemleri (VehiclesController)</h3>
@@ -324,7 +219,7 @@
                 </p>
             </li>
             <li>
-                <h4>Id'si belirlenen bir aracı konteynerleri ile birlikte silme : [HttpDelete("DeleteContainer/{id}")] DeleteContainer(long? id)</h4>
+                <h4>Id'si belirlenen bir konteyneri silme : [HttpDelete("DeleteContainer/{id}")] DeleteContainer(long? id)</h4>
                 <p dir="auto">
                     <a target="_blank" rel="noopener noreferrer" href="">
                         <img src="" alt="Swagger" style="max-width: 100%;">
