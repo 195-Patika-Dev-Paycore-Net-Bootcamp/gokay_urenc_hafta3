@@ -106,7 +106,7 @@
             </li>
         </ul>
     </li>
-    <li>Web API
+    <li>API
         <ul>
             <li>Controllers
                 <ul>
