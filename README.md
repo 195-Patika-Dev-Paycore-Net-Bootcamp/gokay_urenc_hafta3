@@ -4,7 +4,7 @@
 <h3>Proje Yapısı</h4>
 <ul>
     <li>.NET 6 ile geliştirilmiş bir ASP.NET Web API projesidir.</li>
-    <li>Sınıflara ve barındırdığı özelliklere dair açıklamalar her dosyanın içerisinde detaylı olarak belirtilmiştir.</li>
+    <li>Sınıflara ve barındırdığı özelliklere dair açıklamalar her dosyanın içerisinde yorum satırlarında detaylı olarak belirtilmiştir.</li>
     <li>Katmanlı bir yapı izlenerek oluşturulmuştur.</li>
     <li>PostgreSQL veri tabanı kullanılmıştır.</li>
     <li>NHibernate ORM aracından yararlanılmıştır.</li>
