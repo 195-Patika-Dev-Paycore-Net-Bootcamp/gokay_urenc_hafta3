@@ -121,6 +121,43 @@
 </ul>
 
 <hr />
+<h2><b>Veritabanı Tablo ve Kolon Şeması</b></h2>
+<ul>
+    <li>
+        <h3>Araçlar (vehicles) tablosu</h3>
+        <p dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="">
+                <img src="https://i.hizliresim.com/92c310o.png" alt="Swagger" style="max-width: 100%;">
+            </a>
+        </p>
+    </li>
+    <li>
+        <h3>Konteynerler (containers) tablosu</h3>
+        <p dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="">
+                <img src="https://i.hizliresim.com/3nrvd5f.png" alt="Swagger" style="max-width: 100%;">
+            </a>
+        </p>
+    </li>
+    <li>
+        <h3>Araçlar (vehicles) tablosuna ait id kolonunun özellikleri</h3>
+        <p dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="">
+                <img src="https://i.hizliresim.com/qa9aw1d.png" alt="Swagger" style="max-width: 100%;">
+            </a>
+        </p>
+    </li>
+    <li>
+        <h3>Konteynerler (containers) tablosuna ait id kolonunun özellikleri</h3>
+        <p dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="">
+                <img src="https://i.hizliresim.com/h3c2anq.png" alt="Swagger" style="max-width: 100%;">
+            </a>
+        </p>
+    </li>
+</ul>
+
+<hr />
 <h2><b>Sonuçlara Ait Ekran Görüntüleri</b></h2>
 <ul>
     <li>
