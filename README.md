@@ -40,6 +40,21 @@
                     </li>
                 </ul>
             </li>
+            <li>Business
+                <ul>
+                    <li>Abstract
+                        <ul>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Business/Abstract/ICoreService.cs" target="_blank"><b>ICoreService.cs</b></a></li>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Business/Abstract/IService.cs" target="_blank"><b>IService.cs</b></a></li>
+                        </ul>
+                    </li>
+                    <li>Concrete
+                        <ul>
+                            <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Business/Concrete/CoreService.cs" target="_blank"><b>CoreService.cs</b></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
             <li>Data Access
                 <ul>
                     <li>Abstract
@@ -66,6 +81,22 @@
                             <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Core/Entity/Concrete/CoreEntity.cs" target="_blank"><b>CoreEntity.cs</b></a></li>
                         </ul>
                     </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Business
+        <ul>
+            <li>Abstract
+                <ul>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Business/Abstract/IContainerService.cs" target="_blank"><b>IContainerService.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Business/Abstract/IVehicleService.cs" target="_blank"><b>IVehicleService.cs</b></a></li>
+                </ul>
+            </li>
+            <li>Concrete
+                <ul>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Business/Concrete/ContainerService.cs" target="_blank"><b>ContainerService.cs</b></a></li>
+                    <li><a href="https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/gokay_urenc_hafta3/blob/main/PayCoreClassWork3/PayCoreClassWork3.WebAPI/Business/Concrete/VehicleService.cs" target="_blank"><b>VehicleService.cs</b></a></li>
                 </ul>
             </li>
         </ul>
@@ -291,28 +322,22 @@
                 <br />
             </li>
             <li>
-                <h4>Araç numarası belirlenen konteynerleri belirlenen sayıda kümelere ayırarak listeleme : [HttpGet("GetClusteredContainers/{vehicleId}/{clusterCount}")] GetClusteredContainers(long? vehicleId, int clusterCount)</h4>
+                <h4>Araç numarası belirlenen konteynerleri küme başına maksimum eleman sayısını belirterek ayırıp listeleme : [HttpGet("GetClusteredContainers/{vehicleId}/{maxElementsPerCluster}")] GetClusteredContainers(long? vehicleId, int maxElementsPerCluster)</h4>
                 <p dir="auto">
                     <a target="_blank" rel="noopener noreferrer" href="">
-                        <img src="https://i.hizliresim.com/oc73rhj.png" alt="Swagger" style="max-width: 100%;">
+                        <img src="https://i.hizliresim.com/koc96cj.png" alt="Swagger" style="max-width: 100%;">
                     </a>
                 </p>
                 <br />
                 <p dir="auto">
                     <a target="_blank" rel="noopener noreferrer" href="">
-                        <img src="https://i.hizliresim.com/3rgud8t.png" alt="Swagger" style="max-width: 100%;">
+                        <img src="https://i.hizliresim.com/rcr8sve.png" alt="Swagger" style="max-width: 100%;">
                     </a>
                 </p>
                 <br />
                 <p dir="auto">
                     <a target="_blank" rel="noopener noreferrer" href="">
-                        <img src="https://i.hizliresim.com/fg0188f.png" alt="Swagger" style="max-width: 100%;">
-                    </a>
-                </p>
-                <br />
-                <p dir="auto">
-                    <a target="_blank" rel="noopener noreferrer" href="">
-                        <img src="https://i.hizliresim.com/g170391.png" alt="Swagger" style="max-width: 100%;">
+                        <img src="https://i.hizliresim.com/bg7g90z.png" alt="Swagger" style="max-width: 100%;">
                     </a>
                 </p>
                 <br />
